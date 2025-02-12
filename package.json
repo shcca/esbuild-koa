@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "esbuild": "^0.5.26",
+    "esbuild": "^0.25.0",
     "koa": "^2.13.0",
     "typescript": "^3.9.6"
   },
